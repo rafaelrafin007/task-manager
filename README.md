@@ -1,3 +1,5 @@
+#Keep the project file in htdocs of xampp on your device
+
 Task Manager — Setup & Run
 1) Prerequisites
 
